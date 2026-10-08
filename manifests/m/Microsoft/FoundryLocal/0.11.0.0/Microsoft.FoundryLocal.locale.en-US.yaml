@@ -7,7 +7,7 @@ Publisher: Microsoft Corporation
 PublisherUrl: https://github.com/microsoft
 PublisherSupportUrl: https://github.com/microsoft/Foundry-Local/issues
 PackageName: Foundry Local
-PackageUrl: https://www.foundrylocal.ai/
+PackageUrl: https://github.com/microsoft/Foundry-Local
 License: Proprietary
 LicenseUrl: https://github.com/microsoft/Foundry-Local/blob/main/LICENSE
 Copyright: Copyright (c) Microsoft Corporation
