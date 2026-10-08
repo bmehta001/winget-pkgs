@@ -7,7 +7,7 @@ Publisher: Microsoft Corporation
 PublisherUrl: https://github.com/microsoft
 PublisherSupportUrl: https://github.com/microsoft/Foundry-Local/issues
 PackageName: Foundry Local
-PackageUrl: https://github.com/microsoft/Foundry-Local
+PackageUrl: https://www.foundrylocal.ai/
 License: Proprietary
 LicenseUrl: https://github.com/microsoft/Foundry-Local/blob/main/LICENSE
 Copyright: Copyright (c) Microsoft Corporation
@@ -28,7 +28,7 @@ Tags:
 - npu
 - slm
 Documentations:
-- DocumentLabel: Wiki
-  DocumentUrl: https://github.com/microsoft/Foundry-Local/wiki
+- DocumentLabel: Get started
+  DocumentUrl: https://learn.microsoft.com/en-us/azure/foundry-local/get-started
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
